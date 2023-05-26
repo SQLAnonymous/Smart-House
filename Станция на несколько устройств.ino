@@ -64,7 +64,7 @@ return target;
 
 void setup() {
   display.cp437(true);
-  // Init Serial Monitor
+  
   Serial.begin(115200);
   display.begin(SSD1306_SWITCHCAPVCC, 0x3C);
  
