@@ -6,7 +6,6 @@
 https://habr.com/ru/articles/371853<br>
 <br>
 После этого необходимо установить библиотеки для работы умного дома:<br>
-<br>
 ESP8266WiFi<br>
 espnow<br>
 SPI<br>
